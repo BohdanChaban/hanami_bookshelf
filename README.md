@@ -1,8 +1,14 @@
 # Hanami Bookshelf
 
-Welcome to your new Hanami project!
+Web application for storing book collection!
 
 ## Setup
+
+How to install gems:
+
+```
+% bundle install
+```
 
 How to run tests:
 
@@ -30,4 +36,4 @@ How to prepare (create and migrate) DB for `development` and `test` environments
 % HANAMI_ENV=test bundle exec hanami db prepare
 ```
 
-Explore Hanami [guides](http://hanamirb.org/guides/), [API docs](http://docs.hanamirb.org/1.2.0/), or jump in [chat](http://chat.hanamirb.org) for help. Enjoy! 🌸
+Explore Hanami [guides](http://hanamirb.org/guides/), [API docs](http://docs.hanamirb.org/1.2.0/), or jump in [chat](http://chat.hanamirb.org) for help. Enjoy!
